@@ -1,5 +1,5 @@
 (function () {
-  var SETUP_VIDEO_URL = "https://youtu.be/6RCPkmp0UOw?si=HKR7bdouha5u7_Ds";
+  var SETUP_VIDEO_URL = "https://youtu.be/HrA8e9jCjJs?si=TPNxzhfNAEiFaV-M";
   var navToggle = document.querySelector(".nav-toggle");
   var mobileNav = document.querySelector(".mobile-nav");
   var setupVideo = document.getElementById("setupVideo");
